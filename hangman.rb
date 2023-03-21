@@ -1,3 +1,4 @@
+#random word
 # Define the list of words for the game
 words = ["buzz", "lynx", "jinx", "jazz", "jazzy", "muzziness", "zigzagging", "jars", "junk", "mummifying", "grogginess"]
 
