@@ -4,7 +4,7 @@ words = ["buzz", "lynx", "jinx", "jazz", "jazzy", "muzziness", "zigzagging", "ja
 # Select a random word from the list
 word = words.sample
 
-#yes
+
 # Define the initial state of the game
 max_guesses = 6
 missed_guesses = 0
